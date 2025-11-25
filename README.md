@@ -13,27 +13,27 @@ We begin by applying the Golden Circle framework to write an introduction, follo
 
 ## The Golden Circle and Writing an Introduction
 
-### 🟢 **WHY**, 🔵 **HOW**, and 🔴 **WHAT**
+###  **WHY**, **HOW**, and **WHAT**
 
-**🟢 WHY do we write an introduction?** The introduction is the most critical section because it **informs** the reader by providing a clear, comprehensive overview of our work, its context, and its significance, and it **persuades** the reader (and possibly the referee) that our paper is worthy of their full attention and represents a valuable contribution to the field.
+**WHY do we write an introduction?** The introduction is the most critical section because it **informs** the reader by providing a clear, comprehensive overview of our work, its context, and its significance, and it **persuades** the reader (and possibly the referee) that our paper is worthy of their full attention and represents a valuable contribution to the field.
 
-**🔵 HOW to write an introduction?** The fifth most viewed TED talk is "How great leaders inspire action" by Simon Sinek [sinek2009] with over 69 million views. He develops a framework called the Golden Circle that great organizations and leaders think, act, and communicate based on. 
+**HOW to write an introduction?** The fifth most viewed TED talk is "How great leaders inspire action" by Simon Sinek [sinek2009] with over 69 million views. He develops a framework called the Golden Circle that great organizations and leaders think, act, and communicate based on. 
 
-We organize our introduction using Simon Sinek's Golden Circle framework. The core idea behind this framework is to promote an idea, product, or result by first explaining the 🟢 **WHY**, then the 🔵 **HOW**, and finally the 🔴 **WHAT**. Most people know what they do; some know how they do it, but only a few know why they do it. Explaining our work in the order of 🟢 **WHY**, 🔵 **HOW**, and 🔴 **WHAT** not only helps us to understand the purpose, process, and results of our research but also persuades others to care about it.
+We organize our introduction using Simon Sinek's Golden Circle framework. The core idea behind this framework is to promote an idea, product, or result by first explaining the **WHY**, then the **HOW**, and finally the **WHAT**. Most people know what they do; some know how they do it, but only a few know why they do it. Explaining our work in the order of **WHY**, **HOW**, and **WHAT** not only helps us to understand the purpose, process, and results of our research but also persuades others to care about it.
 
-**🔴 WHAT is a well-crafted introduction?** A well-crafted introduction acts as a sales pitch, a roadmap, and provides the context to ensure that your key results and their significance are immediately visible and undeniable.
+**WHAT is a well-crafted introduction?** A well-crafted introduction acts as a sales pitch, a roadmap, and provides the context to ensure that your key results and their significance are immediately visible and undeniable.
 
 ---
 
 ### **The Golden Circle Framework:**
 
-> **🟢 (WHY)**  
+> **(WHY)**  
 > Start with **why this research matters**. Did you solve a fundamental problem? Did you fill a gap in the literature? Why didn't known methods work? Why should anyone care?
 >
-> **🔵 (HOW)**  
+> **(HOW)**  
 > Explain **how you approached the problem**. Did you use a new method, approach, or theoretical framework?
 >
-> **🔴 (WHAT)**  
+> **(WHAT)**  
 > Present **what you found**, specific results, data, conclusions, and their significance.
 
 ![WHY-HOW-WHAT Diagram](FrameworkWHW.png)
@@ -42,9 +42,9 @@ We organize our introduction using Simon Sinek's Golden Circle framework. The co
 
 ### Structure and Content of an Introduction
 
-Your introduction should clearly present the 🟢 **WHY**, followed by the 🔵 **HOW** and 🔴 **WHAT**, and also at the end include a roadmap outlining the results.
+Your introduction should clearly present the **WHY**, followed by the **HOW** and **WHAT**, and also at the end include a roadmap outlining the results.
 
-#### The Hook and Context (The 🟢 **WHY**)
+#### The Hook and Context (The **WHY**)
 The first paragraph, and especially the first sentence, of our introduction should serve two purposes: it should be informative and highlight the significance of our findings. We have already caught the reader's attention with our title and abstract; now is the time to strengthen that interest.
 
 - **The Subject:** We begin with a compelling statement about the research field, then narrow down to the specific problem we addressed, and conclude by stating the overall objective of your paper. Thus, we begin by painting the broad picture and establishing the necessity of your work.
@@ -53,13 +53,13 @@ The first paragraph, and especially the first sentence, of our introduction shou
   - The goal is to set the stage for your contribution, not to provide an exhaustive history.
 - **Motivation:** Explain why this problem is important, interesting, or challenging.
 
-#### The Approach (The 🔵 **HOW**)
+#### The Approach (The **HOW**)
 Briefly hint at the intellectual machinery and method of how you obtained your results.
 
 - **Technical Insight:** Give a high-level idea of the key technique, method, or proof strategy. This helps experts see the novelty of your approach.
   - *Example:* "The key to our result is a new combinatorial formula for ..."
 
-#### The Contribution (The 🔴 **WHAT**)
+#### The Contribution (The **WHAT**)
 This is the core of your introduction, where you present your work's value.
 
 - **Clear Statement of Results:** Describe your main results and findings.
@@ -75,10 +75,10 @@ Guide the reader through the structure of your paper by writing a paragraph at t
 
 The main objective is to make it impossible for a reader to miss your main results and their importance. Your introduction must be a self-contained, persuasive narrative that answers the reader's core questions:
 
-- 🟢 **Why** is this research important?
-- 🔵 **How** it has been done?
-- 🔴 **What** are the results? Are they **different/better**?
-- 🔴 **What** can I expect to find in this paper?
+- **Why** is this research important?
+- **How** it has been done?
+- **What** are the results? Are they **different/better**?
+- **What** can I expect to find in this paper?
 
 By following this structure, you ensure that your results get the spotlight they deserve from the very first page.
 
@@ -88,11 +88,11 @@ Using the Golden Circle framework, we can write our abstract as follows.
 
 > **Informative and attractive title**
 >
-> **Abstract.** 🟢 **WHY** the problem we are studying is important. We should state simply and briefly what problem we are studying.
+> **Abstract.** **WHY** the problem we are studying is important. We should state simply and briefly what problem we are studying.
 >
-> 🔵 **HOW** did we discover our results? Do we have any new methods or ideas?
+> **HOW** did we discover our results? Do we have any new methods or ideas?
 >
-> Finally, we state 🔴 **WHAT** we have discovered, then revisit our initial statement and explain 🟢 **WHY** our findings are significant by considering whether our results relate to other areas of mathematics, have practical applications, help solve well-known problems, or fill a gap in the literature.
+> Finally, we state **WHAT** we have discovered, then revisit our initial statement and explain **WHY** our findings are significant by considering whether our results relate to other areas of mathematics, have practical applications, help solve well-known problems, or fill a gap in the literature.
 
 ## The Golden Circle and the Main Body
 
@@ -122,9 +122,9 @@ We may need to add or remove some hypotheses from the statement of the key resul
 
 **Step 3.** At this step, we complete the definitions and fully write out the statements of the key results. If necessary, we update our directed graph. Now, the precise structure of the directed graph should be clear.
 
-**Step 4.** So far, we have an acyclic directed graph that includes all the elements of the paper. Because this graph is acyclic, there are several possible *topological orders* (a sequence of the vertices such that vertex $A$ precedes $B$ if there is an edge from $A$ to $B$). The order we choose should allow us to partition the paper into sections, each with its own narrative, making it possible to explain the 🟢 WHY, 🔵 HOW, and 🔴 WHAT of the results in that section.
+**Step 4.** So far, we have an acyclic directed graph that includes all the elements of the paper. Because this graph is acyclic, there are several possible *topological orders* (a sequence of the vertices such that vertex $A$ precedes $B$ if there is an edge from $A$ to $B$). The order we choose should allow us to partition the paper into sections, each with its own narrative, making it possible to explain the WHY, HOW, and WHAT of the results in that section.
 
-**Step 5.** We write the abstract and introduction. Then, we complete the paper by ensuring that each section tells its own 🟢 WHY, 🔵 HOW, and 🔴 WHAT, and that the entire paper presents a cohesive story. During this process, we include any applications or additional elements that enhance the interest and value of your paper.
+**Step 5.** We write the abstract and introduction. Then, we complete the paper by ensuring that each section tells its own WHY, HOW, and WHAT, and that the entire paper presents a cohesive story. During this process, we include any applications or additional elements that enhance the interest and value of your paper.
 
 ## References
 
