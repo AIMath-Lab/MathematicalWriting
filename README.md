@@ -38,7 +38,7 @@ We organize our introduction using Simon Sinek's Golden Circle framework. The co
 > **🔴 (WHAT)**  
 > Present **what you found**, specific results, data, conclusions, and their significance.
 
-![WHY-HOW-WHAT Diagram](WHW.png)
+![WHY-HOW-WHAT Diagram](FrameworkWHW.png)
 ---
 
 ### Structure and Content of an Introduction
