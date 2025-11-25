@@ -1,4 +1,4 @@
-# 🟢 **WHY**, 🔵 **HOW**, and 🔴 **WHAT** of Writing a Research Paper in Mathematics
+# **WHY**, **HOW**, and **WHAT** of Writing a Research Paper in Mathematics
 
 **[Farid Aliniaeifard](https://faculty.sdu.edu.cn/FaridAliniaeifard/en/index/1921452/list/index.htm)**  
 *Research Center for Mathematics and Interdisciplinary Sciences, Shandong University*  
