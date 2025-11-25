@@ -7,6 +7,12 @@
 
 ---
 
+The typical way to write a research paper in mathematics is to present a linear sequence of logical statements that lead to a series of results, which can be boring and may cause the main results to be overlooked by the reader. We present a modern approach to writing, grounded in the discoveries of a framework called the Golden Circle that demonstrates how leaders can inspire others. Thus, we ensure our results receive the attention they deserve.
+
+We begin by applying the Golden Circle framework to write an introduction, followed by an abstract. This helps us become familiar with the Golden Circle approach. Next, we incorporate Terrence Tao's concept of creating a rapid prototype [Tao] with the Golden Circle framework to develop the body of the paper.
+
+---
+
 ## The Golden Circle and Writing an Introduction
 
 ### 🟢 **WHY**, 🔵 **HOW**, and 🔴 **WHAT**
@@ -32,6 +38,7 @@ We organize our introduction using Simon Sinek's Golden Circle framework. The co
 > **🔴 (WHAT)**  
 > Present **what you found**, specific results, data, conclusions, and their significance.
 
+![WHY-HOW-WHAT Diagram](WHW.png)
 ---
 
 ### Structure and Content of an Introduction
@@ -39,11 +46,14 @@ We organize our introduction using Simon Sinek's Golden Circle framework. The co
 Your introduction should clearly present the **🟢 WHY**, followed by the **🔵 HOW** and **🔴 WHAT**, and also include a roadmap outlining the results.
 
 #### **The Hook and Context (The 🟢 WHY)**
-The first paragraph, and especially the first sentence, of our introduction should serve two purposes: it should be informative and highlight the significance of our findings.
+The first paragraph, and especially the first sentence, of our introduction should serve two purposes: it should be informative and highlight the significance of our findings. We have already caught the reader's attention with our title and abstract; now is the time to strengthen that interest.
 
-- **The Subject:** Begin with a compelling statement about the research field, then narrow down to the specific problem
-- **Historical Context:** Situate your work within existing literature and identify the *gap*
-- **Motivation:** Explain why this problem is important, interesting, or challenging
+- **The Subject:** We begin with a compelling statement about the research field, then narrow down to the specific problem we addressed, and conclude by stating the overall objective of your paper. Thus, we begin by painting the broad picture and establishing the necessity of your work.
+- **Historical Context and Literature:** Briefly, we situate our work within the existing field. We cite key prior works and, crucially, identify the *gap* or limitation that our paper addresses.
+  - Mention a relevant survey article if one exists.
+  - The goal is to set the stage for your contribution, not to provide an exhaustive history.
+- **Motivation:** Explain why this problem is important, interesting, or challenging.
+
 
 #### **The Approach (The 🔵 HOW)**
 Briefly hint at the intellectual machinery and method.
