@@ -17,7 +17,7 @@ We begin by applying the Golden Circle framework to write an introduction, follo
 
 **WHY do we write an introduction?** The introduction is the most critical section because it **informs** the reader by providing a clear, comprehensive overview of our work, its context, and its significance, and it **persuades** the reader (and possibly the referee) that our paper is worthy of their full attention and represents a valuable contribution to the field.
 
-**HOW to write an introduction?** The fifth most viewed TED talk is "How great leaders inspire action" by Simon Sinek [sinek2009] with over 69 million views. He develops a framework called the Golden Circle that great organizations and leaders think, act, and communicate based on. 
+**HOW do we write an introduction?** The fifth most viewed TED talk is "How great leaders inspire action" by Simon Sinek [sinek2009] with over 69 million views. He develops a framework called the Golden Circle that great organizations and leaders think, act, and communicate based on. 
 
 We organize our introduction using Simon Sinek's Golden Circle framework. The core idea behind this framework is to promote an idea, product, or result by first explaining the **WHY**, then the **HOW**, and finally the **WHAT**. Most people know what they do; some know how they do it, but only a few know why they do it. Explaining our work in the order of **WHY**, **HOW**, and **WHAT** not only helps us to understand the purpose, process, and results of our research but also persuades others to care about it.
 
@@ -28,13 +28,13 @@ We organize our introduction using Simon Sinek's Golden Circle framework. The co
 ### **The Golden Circle Framework:**
 
 > **(WHY)**  
-> Start with **why this research matters**. Did you solve a fundamental problem? Did you fill a gap in the literature? Why didn't known methods work? Why should anyone care?
+> We start with **why this research matters**. Did we solve a fundamental problem? Did we fill a gap in the literature? Why didn't known methods work? Why should anyone care?
 >
 > **(HOW)**  
-> Explain **how you approached the problem**. Did you use a new method, approach, or theoretical framework?
+> Explain **how we approached the problem**. Did we use a new method, approach, or theoretical framework?
 >
 > **(WHAT)**  
-> Present **what you found**, specific results, data, conclusions, and their significance.
+> Present **what we found**, specific results, data, conclusions, and their significance.
 
 ![WHY-HOW-WHAT Diagram](FrameworkWHW.png)
 ---
@@ -42,45 +42,45 @@ We organize our introduction using Simon Sinek's Golden Circle framework. The co
 
 ### Structure and Content of an Introduction
 
-Your introduction should clearly present the **WHY**, followed by the **HOW** and **WHAT**, and also at the end include a roadmap outlining the results.
+Our introduction should clearly present the **WHY**, followed by the **HOW** and **WHAT**, and also at the end include a roadmap outlining the results.
 
 #### The Hook and Context (The **WHY**)
 The first paragraph, and especially the first sentence, of our introduction should serve two purposes: it should be informative and highlight the significance of our findings. We have already caught the reader's attention with our title and abstract; now is the time to strengthen that interest.
 
 - **The Subject:** We begin with a compelling statement about the research field, then narrow down to the specific problem we addressed, and conclude by stating the overall objective of your paper. Thus, we begin by painting the broad picture and establishing the necessity of your work.
 - **Historical Context and Literature:** Briefly, we situate our work within the existing field. We cite key prior works and, crucially, identify the *gap* or limitation that our paper addresses.
-  - Mention a relevant survey article if one exists.
-  - The goal is to set the stage for your contribution, not to provide an exhaustive history.
+  - We mention a relevant survey article if one exists.
+  - The goal is to set the stage for our contribution, not to provide an exhaustive history.
 - **Motivation:** Explain why this problem is important, interesting, or challenging.
 
 #### The Approach (The **HOW**)
-Briefly hint at the intellectual machinery and method of how you obtained your results.
+Briefly, we hint at the intellectual machinery and method of how we obtained your results.
 
 - **Technical Insight:** Give a high-level idea of the key technique, method, or proof strategy. This helps experts see the novelty of your approach.
   - *Example:* "The key to our result is a new combinatorial formula for ..."
 
 #### The Contribution (The **WHAT**)
-This is the core of your introduction, where you present your work's value.
+This is the core of your introduction, where we present your work's value.
 
-- **Clear Statement of Results:** Describe your main results and findings.
-- **Non-Technical Explanation:** Frame these results in non-technical way. If the full result is highly technical, use a simple but interesting special case or an analogy to convey the essence.
-- **Novelty and Significance:** This is a place where you explicitly re-state why your work is new and important. Compare and contrast it with the literature.
+- **Clear Statement of Results:** We describe our main results and findings.
+- **Non-Technical Explanation:** We frame these results in non-technical way. If the full result is highly technical, we use a simple but interesting special case or an analogy to convey the essence.
+- **Novelty and Significance:** This is a place where we explicitly re-state why your work is new and important. We compare and contrast it with the literature.
   - *Example:* "Extending the finding of [1], we demonstrate that [X] is possible without the assumption of [Y]."
   - *Example:* "We provide a counterexample showing this bound cannot be improved."
 
 #### The Roadmap
-Guide the reader through the structure of your paper by writing a paragraph at the end of your introduction. Explicitly outline the structure of the rest of the paper, using section numbers. This is similar to a table of contents but presented in paragraph form.
+We guide the reader through the structure of our paper by writing a paragraph at the end of our introduction. Explicitly outline the structure of the rest of the paper, using section numbers. This is similar to a table of contents but presented in paragraph form.
 
 ### Conclusion
 
-The main objective is to make it impossible for a reader to miss your main results and their importance. Your introduction must be a self-contained, persuasive narrative that answers the reader's core questions:
+The main objective is to make it impossible for a reader to miss our main results and their importance. Our introduction must be a self-contained, persuasive narrative that answers the reader's core questions:
 
 - **Why** is this research important?
-- **How** it has been done?
+- **How** has it been done?
 - **What** are the results? Are they **different/better**?
-- **What** can I expect to find in this paper?
+- **What** can one expect to find in this paper?
 
-By following this structure, you ensure that your results get the spotlight they deserve from the very first page.
+By following this structure, we ensure that your results get the spotlight they deserve from the very first page.
 
 ## The Golden Circle and Writing an Abstract
 
@@ -96,7 +96,7 @@ Using the Golden Circle framework, we can write our abstract as follows.
 
 ## The Golden Circle and the Main Body
 
-When you start writing the main body of your paper, you already have your results. Nonetheless, creating a logical and engaging manuscript can still be challenging. We use a map of ideas, a directed graph that gradually evolves to organize the paper. This approach will make writing more enjoyable, help readers follow your ideas more easily, and your results will get the attention that they deserve.
+When we start writing the main body of our paper, we already have our results. Nonetheless, creating a logical and engaging manuscript can still be challenging. We use a map of ideas, a directed graph that gradually evolves to organize the paper. This approach will make writing more enjoyable, help readers follow your ideas more easily, and our results will get the attention that they deserve.
 
 ### Presenting the Elements of a Paper
 
