@@ -118,13 +118,13 @@ The main idea is to build a directed graph step by step, where the vertices are 
 
 We may need to add or remove some hypotheses from the statement of the key results when writing their proofs. Therefore, until we have completed both the statement and the proof of a key result, we may not know which elements are necessary for that result.
 
-**Step 2.** Write the proofs of key results in such a way that you clearly indicate which elements are used in each proof and if you need to add or remove some hypotheses. You do not need to complete the proofs. If necessary, introduce new definitions, notation, or results, and update the directed graph as needed.
+**Step 2.** We write the proofs of key results in such a way that we clearly indicate which elements are used in each proof and if we need to add or remove some hypotheses. We do not need to complete the proofs. If necessary, we introduce new definitions, notation, or results, and update the directed graph as needed.
 
 **Step 3.** At this step, we complete the definitions and fully write out the statements of the key results. If necessary, we update our directed graph. Now, the precise structure of the directed graph should be clear.
 
 **Step 4.** So far, we have an acyclic directed graph that includes all the elements of the paper. Because this graph is acyclic, there are several possible *topological orders* (a sequence of the vertices such that vertex $A$ precedes $B$ if there is an edge from $A$ to $B$). The order we choose should allow us to partition the paper into sections, each with its own narrative, making it possible to explain the WHY, HOW, and WHAT of the results in that section.
 
-**Step 5.** We write the abstract and introduction. Then, we complete the paper by ensuring that each section tells its own WHY, HOW, and WHAT, and that the entire paper presents a cohesive story. During this process, we include any applications or additional elements that enhance the interest and value of your paper.
+**Step 5.** We write the abstract and introduction. Then, we complete the paper by ensuring that each section tells its own WHY, HOW, and WHAT, and that the entire paper presents a cohesive story. During this process, we include any applications or additional elements that enhance the interest and value of our paper.
 
 ## References
 
