@@ -42,7 +42,7 @@ We organize our introduction using Simon Sinek's Golden Circle framework. The co
 
 ### Structure and Content of an Introduction
 
-Our introduction should clearly present the **WHY**, followed by the **HOW** and **WHAT**, and also at the end include a roadmap outlining the results.
+Our introduction should clearly present the **WHY**, followed by the **HOW** and **WHAT**, and also, at the end, include a roadmap outlining the results.
 
 #### The Hook and Context (The **WHY**)
 The first paragraph, and especially the first sentence, of our introduction should serve two purposes: it should be informative and highlight the significance of our findings. We have already caught the reader's attention with our title and abstract; now is the time to strengthen that interest.
@@ -54,17 +54,17 @@ The first paragraph, and especially the first sentence, of our introduction shou
 - **Motivation:** Explain why this problem is important, interesting, or challenging.
 
 #### The Approach (The **HOW**)
-Briefly, we hint at the intellectual machinery and method of how we obtained your results.
+Briefly, we hint at the intellectual machinery and method of how we obtained our results.
 
 - **Technical Insight:** Give a high-level idea of the key technique, method, or proof strategy. This helps experts see the novelty of your approach.
   - *Example:* "The key to our result is a new combinatorial formula for ..."
 
 #### The Contribution (The **WHAT**)
-This is the core of your introduction, where we present your work's value.
+This is the core of our introduction, where we present our work's value.
 
 - **Clear Statement of Results:** We describe our main results and findings.
-- **Non-Technical Explanation:** We frame these results in non-technical way. If the full result is highly technical, we use a simple but interesting special case or an analogy to convey the essence.
-- **Novelty and Significance:** This is a place where we explicitly re-state why your work is new and important. We compare and contrast it with the literature.
+- **Non-Technical Explanation:** We frame these results in a non-technical way. If the full result is highly technical, we use a simple but interesting special case or an analogy to convey the essence.
+- **Novelty and Significance:** This is a place where we explicitly restate why our work is new and important. We compare and contrast it with the literature.
   - *Example:* "Extending the finding of [1], we demonstrate that [X] is possible without the assumption of [Y]."
   - *Example:* "We provide a counterexample showing this bound cannot be improved."
 
@@ -80,7 +80,7 @@ The main objective is to make it impossible for a reader to miss our main result
 - **What** are the results? Are they **different/better**?
 - **What** can one expect to find in this paper?
 
-By following this structure, we ensure that your results get the spotlight they deserve from the very first page.
+By following this structure, we ensure that our results get the spotlight they deserve from the very first page.
 
 ## The Golden Circle and Writing an Abstract
 
