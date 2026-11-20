@@ -7,9 +7,9 @@
 
 ---
 
-The typical way to write a research paper in mathematics is to present a linear sequence of logical statements that lead to a series of results, which can be boring and may cause the main results to be overlooked by the reader. We present a modern approach to writing, grounded in the discoveries of a framework called the Golden Circle that demonstrates how leaders can inspire others. Thus, we ensure our results receive the attention they deserve.
+The typical way to write a research paper in mathematics is to present a linear sequence of logical statements that lead to a series of results, which can be boring and may cause the main results to be overlooked by the reader. We present a modern approach to writing, grounded in a framework called the Golden Circle that demonstrates how leaders can inspire others. Thus, we ensure our results receive the attention they deserve.
 
-We begin by applying the Golden Circle framework to write an introduction, followed by an abstract. This helps us become familiar with the Golden Circle approach. Next, we incorporate Terrence Tao's concept of creating a rapid prototype [Tao] with the Golden Circle framework to develop the body of the paper.
+We begin by applying the Golden Circle framework to write an introduction, followed by an abstract. This helps us become familiar with the Golden Circle approach. Next, we incorporate Terence Tao's concept of creating a rapid prototype [Tao] with the Golden Circle framework to develop the body of the paper.
 
 ## The Golden Circle and Writing an Introduction
 
@@ -17,11 +17,11 @@ We begin by applying the Golden Circle framework to write an introduction, follo
 
 **WHY do we write an introduction?** The introduction is the most critical section because it **informs** the reader by providing a clear, comprehensive overview of our work, its context, and its significance, and it **persuades** the reader (and possibly the referee) that our paper is worthy of their full attention and represents a valuable contribution to the field.
 
-**HOW do we write an introduction?** The fifth most viewed TED talk is "How great leaders inspire action" by Simon Sinek [sinek2009] with over 69 million views. He develops a framework called the Golden Circle that great organizations and leaders think, act, and communicate based on. 
+**HOW do we write an introduction?** The fifth most viewed TED talk is "How great leaders inspire action" by Simon Sinek [sinek2009] with over 69 million views. He develops a framework called the Golden Circle, on which great organizations and leaders base how they think, act, and communicate. 
 
-We organize our introduction using Simon Sinek's Golden Circle framework. The core idea behind this framework is to promote an idea, product, or result by first explaining the **WHY**, then the **HOW**, and finally the **WHAT**. Most people know what they do; some know how they do it, but only a few know why they do it. Explaining our work in the order of **WHY**, **HOW**, and **WHAT** not only helps us to understand the purpose, process, and results of our research but also persuades others to care about it.
+We organize our introduction using Simon Sinek's Golden Circle framework. The core idea behind this framework is to promote an idea, product, or result by first explaining the **WHY**, then the **HOW**, and finally the **WHAT**. Most people know what they do; some know how they do it, but only a few know why they do it. Explaining our work in the order of **WHY**, **HOW**, and **WHAT** not only helps us understand the purpose, process, and results of our research but also persuades others to care about it.
 
-**WHAT is a well-crafted introduction?** A well-crafted introduction acts as a sales pitch, a roadmap, and provides the context to ensure that your key results and their significance are immediately visible and undeniable.
+**WHAT is a well-crafted introduction?** A well-crafted introduction acts as a sales pitch and a roadmap, and provides the context to ensure that our key results and their significance are immediately visible and undeniable.
 
 ---
 
@@ -47,16 +47,16 @@ Our introduction should clearly present the **WHY**, followed by the **HOW** and
 #### The Hook and Context (The **WHY**)
 The first paragraph, and especially the first sentence, of our introduction should serve two purposes: it should be informative and highlight the significance of our findings. We have already caught the reader's attention with our title and abstract; now is the time to strengthen that interest.
 
-- **The Subject:** We begin with a compelling statement about the research field, then narrow down to the specific problem we addressed, and conclude by stating the overall objective of your paper. Thus, we begin by painting the broad picture and establishing the necessity of your work.
+- **The Subject:** We begin with a compelling statement about the research field, then narrow down to the specific problem we addressed, and conclude by stating the overall objective of our paper. Thus, we begin by painting the broad picture and establishing the necessity of your work.
 - **Historical Context and Literature:** Briefly, we situate our work within the existing field. We cite key prior works and, crucially, identify the *gap* or limitation that our paper addresses.
   - We mention a relevant survey article if one exists.
   - The goal is to set the stage for our contribution, not to provide an exhaustive history.
 - **Motivation:** Explain why this problem is important, interesting, or challenging.
 
 #### The Approach (The **HOW**)
-Briefly, we hint at the intellectual machinery and method of how we obtained our results.
+Briefly, we hint at the intellectual machinery and the method by which we obtained our results.
 
-- **Technical Insight:** Give a high-level idea of the key technique, method, or proof strategy. This helps experts see the novelty of your approach.
+- **Technical Insight:** Give a high-level idea of the key technique, method, or proof strategy. This helps experts see the novelty of our approach.
   - *Example:* "The key to our result is a new combinatorial formula for ..."
 
 #### The Contribution (The **WHAT**)
@@ -64,12 +64,12 @@ This is the core of our introduction, where we present our work's value.
 
 - **Clear Statement of Results:** We describe our main results and findings.
 - **Non-Technical Explanation:** We frame these results in a non-technical way. If the full result is highly technical, we use a simple but interesting special case or an analogy to convey the essence.
-- **Novelty and Significance:** This is a place where we explicitly restate why our work is new and important. We compare and contrast it with the literature.
-  - *Example:* "Extending the finding of [1], we demonstrate that [X] is possible without the assumption of [Y]."
+- **Novelty and Significance:** Here, we explicitly restate why our work is new and important. We compare and contrast it with the literature.
+  - *Example:* "Extending the finding of [KT], we demonstrate that [X] is possible without the assumption of [Y]."
   - *Example:* "We provide a counterexample showing this bound cannot be improved."
 
 #### The Roadmap
-We guide the reader through the structure of our paper by writing a paragraph at the end of our introduction. Explicitly outline the structure of the rest of the paper, using section numbers. This is similar to a table of contents but presented in paragraph form.
+We guide the reader through the structure of our paper by writing a paragraph at the end of our introduction. We explicitly outline the structure of the rest of the paper, using section numbers. This is similar to a table of contents but presented in paragraph form.
 
 ### Conclusion
 
@@ -102,11 +102,11 @@ When we start writing the main body of our paper, we already have our results. N
 
 Before starting to write a paper, we should understand what the elements of a paper are and how to name them. The building blocks of a mathematical paper are definitions and notation. Other elements include key results, which are presented as theorems, propositions, corollaries, and lemmas. Sections are used to separate ideas and present related results, with each section functioning like a short story. Subsections may also be added to improve the flow of the material.
 
-The building blocks of a mathematical paper are two elements: the definitions and the notation. A *definition* introduces some terminology, and a *notation* is the explanation of a symbol.
+A *definition* introduces some terminology, and *notation* is the system of symbols used in the paper.
 
-A *theorem* is a major result and is one of the goals of the paper. If a result has its own importance but it is minor, call it a *proposition*. We call a minor result a *corollary* if it follows from other results of the paper with a relatively short proof, and a *lemma* is a statement that is needed in the proofs of other results of the paper.
+A *theorem* is a major result and is one of the goals of the paper. If a result has its own importance but is minor, we call it a *proposition*. We call a minor result a *corollary* if it follows from other results of the paper with a relatively short proof, and we call a statement a *lemma* if it is needed in the proofs of other results of the paper.
 
-A *remark* is a brief comment, and it should be independent of the flow of the story of the paper. A *conjecture* is a statement that authors believe to be true, but they don't have a proof.
+A *remark* is a brief comment, and it should be independent of the flow of the story of the paper. A *conjecture* is a statement that authors believe to be true, but for which they have no proof.
 
 ### Writing the Paper Using a Directed Graph That Evolves
 
@@ -116,13 +116,13 @@ The main idea is to build a directed graph step by step, where the vertices are 
 
 **Step 1.** We begin by writing down all elements that come to mind, including definitions, notation, and the approximate statements of theorems, propositions, corollaries, and lemmas. We do not include the proofs at this stage. Now, we treat each element as a vertex in a directed graph. Whenever we use an element $A$ in another element $B$, or anticipate that $A$ will be needed in $B$, we draw an edge from $A$ to $B$. This approach provides an overview and helps us organize our paper.
 
-We may need to add or remove some hypotheses from the statement of the key results when writing their proofs. Therefore, until we have completed both the statement and the proof of a key result, we may not know which elements are necessary for that result.
+We may need to add or remove some hypotheses from the statements of the key results when writing their proofs. Therefore, until we have completed both the statement and the proof of a key result, we may not know which elements are necessary for that result.
 
-**Step 2.** We write the proofs of key results in such a way that we clearly indicate which elements are used in each proof and if we need to add or remove some hypotheses. We do not need to complete the proofs. If necessary, we introduce new definitions, notation, or results, and update the directed graph as needed.
+**Step 2.** We write the proofs of key results in such a way that we clearly indicate which elements are used in each proof and whether we need to add or remove some hypotheses. We do not need to complete the proofs. If necessary, we introduce new definitions, notation, or results, and update the directed graph as needed.
 
 **Step 3.** At this step, we complete the definitions and fully write out the statements of the key results. If necessary, we update our directed graph. Now, the precise structure of the directed graph should be clear.
 
-**Step 4.** So far, we have an acyclic directed graph that includes all the elements of the paper. Because this graph is acyclic, there are several possible *topological orders* (a sequence of the vertices such that vertex $A$ precedes $B$ if there is an edge from $A$ to $B$). The order we choose should allow us to partition the paper into sections, each with its own narrative, making it possible to explain the WHY, HOW, and WHAT of the results in that section.
+**Step 4.** So far, we have an acyclic directed graph that includes all the elements of the paper. Because this graph is acyclic, there are several possible *topological orders* (each a sequence of the vertices such that vertex $A$ precedes $B$ whenever there is an edge from $A$ to $B$). The order we choose should allow us to partition the paper into sections, each with its own narrative, making it possible to explain the WHY, HOW, and WHAT of the results in that section.
 
 **Step 5.** We write the abstract and introduction. Then, we complete the paper by ensuring that each section tells its own WHY, HOW, and WHAT, and that the entire paper presents a cohesive story. During this process, we include any applications or additional elements that enhance the interest and value of our paper.
 
@@ -132,4 +132,4 @@ We may need to add or remove some hypotheses from the statement of the key resul
 
 2. S. Sinek, *How great leaders inspire action* [TED Talk]. TED. Retrieved from [https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) [sinek2009]
 
-3. T. Tao, *On writing*, blog post; [https://terrytao.wordpress.com/advice-on-writing-papers/](https://terrytao.wordpress.com/advice-on-writing-papers/). [Tao]
+3. T. Tao, *Advice on writing papers*, blog post, [https://terrytao.wordpress.com/advice-on-writing-papers/](https://terrytao.wordpress.com/advice-on-writing-papers/). [Tao]
