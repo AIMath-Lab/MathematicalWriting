@@ -96,7 +96,7 @@ Using the Golden Circle framework, we can write our abstract as follows.
 
 ## The Golden Circle and the Main Body
 
-When we start writing the main body of our paper, we already have our results. Nonetheless, creating a logical and engaging manuscript can still be challenging. We use a map of ideas, a directed graph that gradually evolves to organize the paper. This approach will make writing more enjoyable, help readers follow your ideas more easily, and our results will get the attention that they deserve.
+When we start writing the main body of our paper, we already have our results. Nonetheless, creating a logical and engaging manuscript can still be challenging. We use a map of ideas, a directed graph that gradually evolves to organize the paper. This approach will make writing more enjoyable, help readers follow our ideas more easily, and ensure our results get the attention that they deserve.
 
 ### Presenting the Elements of a Paper
 
